@@ -1,3 +1,5 @@
+-- ***** See Output folder for query results *****
+
 --1.  Select the employee number, last name, first name, sex, and salary of all employees, ordered by employee number
 
 select employees.emp_number, last_name, first_name, sex, salary from employees
